@@ -73,14 +73,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prathamtagad&theme=onestar&margin-w=15&margin-h=15" />
-</p>
-
----
-
 ### 🔖 Fun Badges
 
 <p align="center">
