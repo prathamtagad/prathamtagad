@@ -1,80 +1,74 @@
-<h1 align="center">Hey 👋, I'm Pratham Tagad</h1>
-<h3 align="center">👨‍💻 B.Tech Student | Web Dev & UI Enthusiast | Crafting Cool Projects 🚀</h3>
+<h1 align="center">👋 Hey, I'm <span style="color:#58A6FF;">Pratham Tagad</span></h1>
+<h3 align="center">🚀 Web Developer | UI Enthusiast | B.Tech Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prathamtagad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=prathamtagad&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Web+Developer;UI+Designer;Open+Source+Contributor;Always+learning+new+tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Web+Developer;UI%2FUX+Designer;Open+Source+Contributor;Always+Learning+New+Tech" />
 </p>
 
 ---
 
-### ✨ About Me
+## 🌟 **About Me**
 
-- 🎓 2nd Year B.Tech Student  
-- 🧠 Exploring **Three.js**, **Vue**, and **React**  
-- 💡 Passionate about clean UI & meaningful UX  
-- 🎮 Gamer | 🎵 Lo-fi Addict | ☕ Coffee-Driven Dev
+- 🎓 B.Tech student (2nd Year)  
+- 💻 Building stuff with **React, Vue, Three.js**  
+- 🎨 Obsessed with clean UI & meaningful user experience  
+- 🚀 Love experimenting with modern frontend tools  
+- 🎮 Gamer | 🎵 Lo-Fi Lover | ☕ Coffee-powered dev  
 
 ---
 
-### 🌈 Tech Stack & Tools
+## 🛠️ **Tech Stack**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/SeleniumHQ/selenium/main/common/src/web/icons/Selenium_Logo.png" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,python,flask,django,selenium,cpp,c,java,cs,figma,firebase,git,tailwind,linux" />
 </p>
 
 <details>
-  <summary>📚 More Tools & Frameworks</summary>
+  <summary><strong>📦 More Tools I Use</strong></summary>
 
-  - Azure & AWS (Cloud Basics)  
-  - NestJS  
-  - Bash & Linux Shell  
-  - Heroku (Deployments)
+  - Cloud Basics → **Azure, AWS**  
+  - Backend → **NestJS**  
+  - DevOps → **Heroku Deployments**  
+  - Shell → **Bash & Linux Command-line**
 </details>
 
 ---
 
-### 📬 Reach Me
+## 📊 **GitHub Stats**
 
 <p align="center">
-  <a href="mailto:prathamtagad0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/pratham-tagad-051946301/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/pratham_tagad" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://instagram.com/pratham_tagad" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.leetcode.com/prathamtagad" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" /></a>
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathamtagad&show_icons=true&theme=tokyonight" /> -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamtagad&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamtagad&layout=compact&theme=tokyonight" /> -->
 </p>
 
 ---
 
-### 🌐 Portfolio
-
-- 🔗 [prathamtagad.netlify.app](https://prathamtagad.netlify.app)
+## 🌐 **Portfolio**
+✨ Check out my work: **[prathamtagad.netlify.app](https://prathamtagad.netlify.app)**
 
 ---
 
-### 🔖 Fun Badges
+## 📬 **Connect With Me**
 
+<p align="center">
+  <a href="mailto:prathamtagad0@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"></a>
+  <a href="https://www.linkedin.com/in/pratham-tagad-051946301/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"></a>
+  <a href="https://twitter.com/pratham_tagad"><img src="https://skillicons.dev/icons?i=twitter" height="45"></a>
+  <a href="https://instagram.com/pratham_tagad"><img src="https://skillicons.dev/icons?i=instagram" height="45"></a>
+  <a href="https://leetcode.com/prathamtagad/"><img src="https://skillicons.dev/icons?i=leetcode" height="45"></a>
+</p>
+
+---
+
+## 🏅 **Fun Badges**
 <p align="center">
   <img src="https://img.shields.io/badge/Code%20Ninja-🧠-blue" />
   <img src="https://img.shields.io/badge/UI%20Lover-🎨-purple" />
